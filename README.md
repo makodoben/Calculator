@@ -1,7 +1,7 @@
 # Calculator
 # The four fundamental operations of arithmetic program
 
-### Run
+#### Run
 ```ruby
 $ruby arithmetic.rb
 ```
